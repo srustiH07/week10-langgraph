@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# MLflow generated files
+mlflow.db
+mlruns/
+
+# Environment files
+.env
+
+# Generated outputs
+output/
